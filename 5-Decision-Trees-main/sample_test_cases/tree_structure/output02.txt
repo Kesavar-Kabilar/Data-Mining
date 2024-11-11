@@ -1,0 +1,2 @@
+{split_dim: 7, split_point: 2.5051, label: 4}{split_dim: 0, split_point: 2.0089, label: 3}{split_dim: -1, split_point: -1.0000, label: 3}{split_dim: -1, split_point: -1.0000, label: 1}{split_dim: -1, split_point: -1.0000, label: 4}
+{split_dim: -1, split_point: -1.0000, label: 3}{split_dim: 0, split_point: 2.0089, label: 3}{split_dim: -1, split_point: -1.0000, label: 1}{split_dim: 7, split_point: 2.5051, label: 4}{split_dim: -1, split_point: -1.0000, label: 4}
